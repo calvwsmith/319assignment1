@@ -9,3 +9,7 @@
 .titl{
     font-family: "Lucida Console", "Courier New", monospace;
 }
+.name{
+    color: gold;
+    background-color: black;
+}
