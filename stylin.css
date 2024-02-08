@@ -1,0 +1,11 @@
+.cal{
+    color: darkblue;
+    background-color: magenta;
+}
+.date{
+    color: white;
+    background-color: black;
+}
+.titl{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
